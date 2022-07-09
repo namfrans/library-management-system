@@ -1,0 +1,4 @@
+To get the driver
+-jdbc.postgresql.org/download.html  try to download the latest one
+To get the database installer - get the latest on of all for your device
+-https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
